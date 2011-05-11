@@ -97,32 +97,32 @@ Date,Description,Payments,Receipts,Balance,Trac,
 2010/12/29,Debit card payment to Www.Misco.Co.Uk,174.58,0,14253.39,599,
 2011/03/01,Cheque issued 100089,1180.8,0,8151.35,631,
 2011/03/04,Debit card payment to Farnell Internet,22.46,0,8128.89,,
-2011/03/14,Debit card payment to WP-Newbury Electro,85.92,0,8042.97,,
+2011/03/14,Debit card payment to WP-Newbury Electro,85.92,0,8042.97,687,0
 2011/03/15,Debit card payment to Farnell Internet,40.16,0,8002.81,,
-2011/03/15,Debit card payment to R S Comp/Internet,140.44,0,7862.37,,
+2011/03/15,Debit card payment to R S Comp/Internet,140.44,0,7862.37,691,140.5
 2011/03/16,Debit card payment to Farnell Internet,88.16,0,7774.21,,
 2011/03/16,Debit card payment to Farnell Internet,286.06,0,7488.15,,
-2011/03/16,Debit card payment to Farnell Internet,341.29,0,7146.86,,
+2011/03/16,Debit card payment to Farnell Internet,341.29,0,7146.86,692,342.05
 2011/03/17,Debit card payment to Farnell Internet,4.97,0,7141.89,,
 2011/03/17,Debit card payment to Farnell Internet,11.88,0,7130.01,,
 2011/03/17,Debit card payment to Farnell Internet,28.15,0,7101.86,,
-2011/03/18,Debit card payment to Garner Osborne,370.75,0,6731.11,637,
+2011/03/18,Debit card payment to Garner Osborne,370.75,0,6731.11,637,363.48
 2011/03/21,Cheque issued 100090,90,0,6731.11,,
 2011/03/21,Debit card payment to Farnell Internet,1.98,0,6639.13,,
 2011/03/23,Debit card payment to Staples UK,39.45,0,6599.68,,
 2011/03/25,Cheque issued 100091,50,0,6549.68,,
-2011/03/25,Cheque issued 100092,360,0,6189.68,686,
-2011/03/25,Cheque issued 100094,107.4,0,6082.28,,
-2011/03/28,Cheque issued 100093,56.4,0,6025.88,,
+2011/03/25,Cheque issued 100092,360,0,6189.68,686,360
+2011/03/25,Cheque issued 100094,107.4,0,6082.28,695,107.4
+2011/03/28,Cheque issued 100093,56.4,0,6025.88,700,56.4
 2011/03/28,Cheque issued 100095,56.4,0,5969.48,688,
 2011/03/29,Debit card payment to Southampton.Gov.UK,2.8,0,5966.68,,
 2011/03/29,Debit card payment to Staples UK,33.36,0,5933.32,,
 2011/03/29,Debit card payment to The Engraving Gall,107.45,0,5667.04,,
-2011/03/29,Debit card payment to UPS*1Ztg7224689544,69.66,0,5597.38,,
-2011/03/29,Debit card payment to UPS*1Ztg7224689560,29.73,0,5567.65,,
-2011/03/29,Debit card payment to UPS*1Ztg7224689721,29.72,0,5537.93,,
-2011/03/29,Debit card payment to UPS*1Ztg7224689994,29.72,0,5508.21,,
-2011/03/30,Cheque issued 100097,133.46,0,5374.75,,
+2011/03/29,Debit card payment to UPS*1Ztg7224689544,69.66,0,5597.38,715,0
+2011/03/29,Debit card payment to UPS*1Ztg7224689560,29.73,0,5567.65,715,0
+2011/03/29,Debit card payment to UPS*1Ztg7224689721,29.72,0,5537.93,715,0
+2011/03/29,Debit card payment to UPS*1Ztg7224689994,29.72,0,5508.21,715,0
+2011/03/30,Cheque issued 100097,133.46,0,5374.75,661,202.98
 2011/03/30,Debit card payment to Staples UK,4.38,0,5529.2,,
 2011/04/04,Debit card payment to UPS*1Ztg7224689006,76.3,0,5452.9,,
 2011/04/04,Debit card payment to UPS*1Ztg7224689044,29.75,0,5423.15,,
