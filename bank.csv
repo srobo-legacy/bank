@@ -109,44 +109,44 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2011/03/18,"Debit card payment to Garner Osborne",370.75,0,6731.11,637,363.48,
 2011/03/21,"Cheque issued 100090",90,0,6731.11,,,"Shaun Mooney - Bitbox Delivery"
 2011/03/21,"Debit card payment to Farnell Internet",1.98,0,6639.13,,,
-2011/03/23,"Debit card payment to Staples UK",39.45,0,6599.68,,,
+2011/03/23,"Debit card payment to Staples UK",39.45,0,6599.68,,,"Boxes for shipping"
 2011/03/25,"Cheque issued 100091",50,0,6549.68,,,"Ian Cooper - Bitbox Delivery/Collection"
 2011/03/25,"Cheque issued 100092",360,0,6189.68,686,360,
 2011/03/25,"Cheque issued 100094",107.4,0,6082.28,695,107.4,
 2011/03/28,"Cheque issued 100093",56.4,0,6025.88,700,56.4,
 2011/03/28,"Cheque issued 100095",56.4,0,5969.48,688,,
-2011/03/29,"Debit card payment to Southampton.Gov.UK",2.8,0,5966.68,,,
-2011/03/29,"Debit card payment to Staples UK",33.36,0,5933.32,,,
-2011/03/29,"Debit card payment to The Engraving Gall",107.45,0,5667.04,,,
-2011/03/29,"Debit card payment to UPS*1Ztg7224689544",69.66,0,5597.38,715,0,
-2011/03/29,"Debit card payment to UPS*1Ztg7224689560",29.73,0,5567.65,715,0,
-2011/03/29,"Debit card payment to UPS*1Ztg7224689721",29.72,0,5537.93,715,0,
-2011/03/29,"Debit card payment to UPS*1Ztg7224689994",29.72,0,5508.21,715,0,
+2011/03/29,"Debit card payment to Southampton.Gov.UK",2.8,0,5966.68,,,"Chris's Parking"
+2011/03/29,"Debit card payment to Staples UK",33.36,0,5933.32,,,"Boxes for shipping"
+2011/03/29,"Debit card payment to The Engraving Gall",107.45,0,5667.04,,,Trophies
+2011/03/29,"Debit card payment to UPS*1Ztg7224689544",69.66,0,5597.38,715,0,Shipping
+2011/03/29,"Debit card payment to UPS*1Ztg7224689560",29.73,0,5567.65,715,0,Shipping
+2011/03/29,"Debit card payment to UPS*1Ztg7224689721",29.72,0,5537.93,715,0,Shipping
+2011/03/29,"Debit card payment to UPS*1Ztg7224689994",29.72,0,5508.21,715,0,Shipping
 2011/03/30,"Cheque issued 100097",133.46,0,5374.75,661,202.98,
-2011/03/30,"Debit card payment to Staples UK",4.38,0,5529.2,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689006",76.3,0,5452.9,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689044",29.75,0,5423.15,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689046",29.72,0,5393.43,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689048",29.72,0,5363.71,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689135",29.72,0,5333.99,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689198",29.72,0,5499.48,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689212",29.72,0,5469.76,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689240",30.14,0,5439.62,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689242",29.72,0,5409.9,,,
-2011/04/04,"Debit card payment to UPS*1Ztg7224689483",30.14,0,5379.76,,,
-2011/04/04,"Direct credit from S Hampton Universi",0,689.56,5874.11,,,
-2011/04/05,"Debit card payment to Southampton.Gov.UK",1.4,0,5872.71,,,
-2011/04/05,"Debit card payment to Staples UK",8.48,0,5864.23,,,
-2011/04/05,"Debit card payment to UPS*1Ztg7224689094",30.15,0,5834.08,,,
-2011/04/05,"Debit card payment to UPS*1Ztg7224689242",0,25.34,5799.98,,,
-2011/04/05,"Debit card payment to UPS1Ztg7224689484",29.72,0,5770.26,,,
-2011/04/05,"Debit card payment to UPS1Ztg7224689494",29.72,0,5804.79,,,
+2011/03/30,"Debit card payment to Staples UK",4.38,0,5529.2,,,"Boxes for shipping"
+2011/04/04,"Debit card payment to UPS*1Ztg7224689006",76.3,0,5452.9,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689044",29.75,0,5423.15,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689046",29.72,0,5393.43,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689048",29.72,0,5363.71,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689135",29.72,0,5333.99,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689198",29.72,0,5499.48,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689212",29.72,0,5469.76,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689240",30.14,0,5439.62,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689242",29.72,0,5409.9,,,Shipping
+2011/04/04,"Debit card payment to UPS*1Ztg7224689483",30.14,0,5379.76,,,Shipping
+2011/04/04,"Direct credit from S Hampton Universi",0,689.56,5874.11,,,"Motorola Foundation Conference Funding"
+2011/04/05,"Debit card payment to Southampton.Gov.UK",1.4,0,5872.71,,,"Chris's Parking"
+2011/04/05,"Debit card payment to Staples UK",8.48,0,5864.23,,,"Boxes for shipping"
+2011/04/05,"Debit card payment to UPS*1Ztg7224689094",30.15,0,5834.08,,,Shipping
+2011/04/05,"Debit card payment to UPS*1Ztg7224689242",0,25.34,5799.98,,,Shipping
+2011/04/05,"Debit card payment to UPS1Ztg7224689484",29.72,0,5770.26,,,Shipping
+2011/04/05,"Debit card payment to UPS1Ztg7224689494",29.72,0,5804.79,,,Shipping
 2011/04/06,"Debit card payment to Stage Electrics",212.74,0,5587.24,729,,
 2011/04/07,"Debit card payment to Comms Express Ltd",137.1,0,5372.08,754,,
 2011/04/07,"Debit card payment to Stage Electrics",17.38,0,5354.7,729,,
 2011/04/07,"Debit card payment to www.Beal.Org.UK",60.68,0,5294.02,730,39.62,
 2011/04/08,"Debit card payment to Totton Timber Co",179.71,0,5162.65,741,,
-2011/04/08,"Debit cardpayment UPS*1Ztg7224689127",29.72,0,5132.93,,,
+2011/04/08,"Debit cardpayment UPS*1Ztg7224689127",29.72,0,5132.93,,,Shipping
 2011/04/11,"Debit card payment to Screwfix Direct",30.13,0,5132.52,731,,
 2011/04/12,"Debit card payment to SGB Hire Plus",67.2,0,5065.32,720,0,
 2011/04/13,"Debit card payment to Sainsburys Petrol",23.88,0,5041.44,781,,
