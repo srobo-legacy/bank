@@ -1,53 +1,53 @@
 "Budget Line",Description,"Budget Allocated","Actual Spend"
-0,"No line",0,
-11,"Web & Publicity - Posters & Brochures",20,
-17,"Mech Prototype - Tools",100,
-18,"Mech Prototype - R&D",100,
-21,"Electronics Prototyping - Programmers",200,
-22,"Electronics Prototyping - Tools",100,
-23,"Electronics Prototyping - Components",450,
-26,"Kickstart - ISS Hire",50,
-27,"Kickstart - Scaff Hire",55,
-28,"Kickstart - Game",240,
-37,"Power Board - BeagleBoard",4560,
-38,"Power Board - PCB",1131.64,
-39,"Power Board - LCD",760,
-40,"Power Board - Components",1026,
-41,"Power Board - Case",570,
-43,"Motor Board - PCB",1220.56,
-44,"Motor Board - Components",1748,
-45,"Motor Board - Case",494,
-47,"Servo Board - PCB",717.44,
-48,"Servo Board - Components",380,
-49,"Servo Board - Case",247,
-51,"JointIO Board - PCB",717.44,
-52,"JointIO Board - Components",494,
-53,"JointIO Board - Case",247,
-56,"SMPS Board - PCB",190,
-57,"SMPS Board - Components",190,
-58,"SMPS Board - Case",247,
-60,"8P8C Cables",98.44,
-61,Batteries,259.2,
-62,Chargers,239.76,
-63,"USB Key",168,
-64,Wire,27,
-65,"PCB Spacers",120,
-66,Switches,48,
-67,Wood,480,
-68,Aluminium,48,
-69,"Team Budget",1680,
-70,Fixings,48,
-71,"Threaded Bar",48,
-72,"Chopping Board",48,
-73,"Cable Ties",48,
-74,Tubing,24,
-79,"ISS Hire",75,
-80,Decoration,30,
-81,"Scaff Hire",90,
-82,Ramp,20,
-83,"Computing Hire",50,
-84,Materials,40,
-85,"Radio Modules",286,
-86,Printing,100,
-87,Trophies,60,
-88,Hardboard,135,
+0,"No line",0,3324.22
+11,"Web & Publicity - Posters & Brochures",20,0
+17,"Mech Prototype - Tools",100,0
+18,"Mech Prototype - R&D",100,0
+21,"Electronics Prototyping - Programmers",200,173.17
+22,"Electronics Prototyping - Tools",100,0
+23,"Electronics Prototyping - Components",450,344.98
+26,"Kickstart - ISS Hire",50,0
+27,"Kickstart - Scaff Hire",55,0
+28,"Kickstart - Game",240,0
+37,"Power Board - BeagleBoard",4560,1793.1
+38,"Power Board - PCB",1131.64,390.34
+39,"Power Board - LCD",760,483.61
+40,"Power Board - Components",1026,1916.06
+41,"Power Board - Case",570,22.46
+43,"Motor Board - PCB",1220.56,352.55
+44,"Motor Board - Components",1748,1338.28
+45,"Motor Board - Case",494,1192.03
+47,"Servo Board - PCB",717.44,56.4
+48,"Servo Board - Components",380,607.32
+49,"Servo Board - Case",247,576
+51,"JointIO Board - PCB",717.44,427.15
+52,"JointIO Board - Components",494,419.66
+53,"JointIO Board - Case",247,579
+56,"SMPS Board - PCB",190,0
+57,"SMPS Board - Components",190,0
+58,"SMPS Board - Case",247,0
+60,"8P8C Cables",98.44,180.37
+61,Batteries,259.2,533.62
+62,Chargers,239.76,195.43
+63,"USB Key",168,290
+64,Wire,27,457.47
+65,"PCB Spacers",120,0
+66,Switches,48,0
+67,Wood,480,0
+68,Aluminium,48,235
+69,"Team Budget",1680,0
+70,Fixings,48,101.52
+71,"Threaded Bar",48,101.52
+72,"Chopping Board",48,0
+73,"Cable Ties",48,101.52
+74,Tubing,24,0
+79,"ISS Hire",75,0
+80,Decoration,30,378.8
+81,"Scaff Hire",90,67.2
+82,Ramp,20,0
+83,"Computing Hire",50,0
+84,Materials,40,320.93
+85,"Radio Modules",286,0
+86,Printing,100,0
+87,Trophies,60,107.45
+88,Hardboard,135,179.71
