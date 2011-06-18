@@ -14,17 +14,17 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2010/02/22,"Debit card payment to Federal Express EU",19.5,0,6575.17,,,
 2010/03/02,"Debit card payment to Amazon *mktplc EU",55.96,0,6519.21,,,
 2010/03/15,"Cheque issued 100058",101.46,0,6417.75,,,
-2010/03/22,"Debit card payment to Farnell Internet",195.76,0,6221.99,,,
+2010/03/22,"Debit card payment to Farnell Internet",195.76,0,6221.99,,,"Xbees for competition (91802552)"
 2010/03/30,"Cheque issued 100057",42.35,0,6179.64,,,
-2010/04/01,"Debit card payment to Farnell Internet",172.14,0,6007.5,,,
+2010/04/01,"Debit card payment to Farnell Internet",172.14,0,6007.5,,,"2 & 3 way camcon plugs (92064023)"
 2010/04/13,"Debit card payment to Comms Express Ltd",12.69,0,5994.81,,,
-2010/04/13,"Debit card payment to Farnell Internet",12.55,0,5982.26,,,
-2010/04/13,"Debit card payment to Farnell Internet",58.75,0,5873.36,,,
+2010/04/13,"Debit card payment to Farnell Internet",12.55,0,5982.26,,,"25m extension lead (92258952)"
+2010/04/13,"Debit card payment to Farnell Internet",58.75,0,5873.36,,,"25x 3m 4-way extension leads (92258952)"
 2010/04/13,"Debit card payment to Www.Beal.Org.UK",24.33,0,5849.03,,,
 2010/04/13,"Debit card payment to Www.Gaffertape.Com",25.82,0,5823.21,,,
 2010/04/16,"Debit card payment to B & Q",17.72,0,5839.33,,,
 2010/04/16,"Debit card payment to Screwfix Direct",16.31,0,5823.02,,,
-2010/04/22,"Debit card payment to Farnell Internet",25.1,0,5814.23,,,
+2010/04/22,"Debit card payment to Farnell Internet",25.1,0,5814.23,,,"Flail board components (92449972)"
 2010/04/27,"Cheque issued 100060",70,0,5744.23,,,
 2010/05/05,"Cheque issued 100061",114.49,0,5628.74,,,"Alex Forward - Trophies"
 2010/05/10,"Debit card payment to SGB Hire Plus",72.1,0,5557.64,,,
@@ -42,10 +42,10 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2010/09/16,"Debit card payment to Comms Express Ltd",180.37,0,2852.1,,,
 2010/09/16,"Debit card payment to Metal Supermarkets",235,0,2617.1,526,,
 2010/09/16,"Debit card payment to Really Useful Prod",331.31,0,2285.77,527,,
-2010/09/17,"Debit card payment to Farnell Internet",271.59,0,1709.63,532,,
+2010/09/17,"Debit card payment to Farnell Internet",271.59,0,1709.63,532,,"Power board components (95339357)"
 2010/09/17,"Debit card payment to Screwfix Direct",38.8,0,1670.83,530,,
 2010/09/17,"Debit card payment to Screwfix Direct",265.75,0,1405.08,530,,
-2010/09/20,"Debit card payment to Farnell Internet",11.35,0,1393.73,,,
+2010/09/20,"Debit card payment to Farnell Internet",11.35,0,1393.73,532,,"Power board components (95339357)"
 2010/09/20,"Debit card payment to Regton Ltd",56.26,0,1337.47,531,,
 2010/09/20,"Debit card payment to R S Comp/Internet",50.23,0,1287.24,,,
 2010/09/20,"Debit card payment to R S Comp/Internet",518.4,0,1073.39,,,
@@ -54,28 +54,28 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2010/09/27,"Deposit re S'Hampton Uni",0,1000,3886,,,
 2010/09/27,"Direct credit from Morse J C M",0,1000,4886,,,
 2010/09/27,"Direct credit from R Barlow",0,1000,5886,,,
-2010/09/28,"Debit card payment to Farnell Internet",111.51,0,5774.49,543,,
-2010/09/28,"Debit card payment to Farnell Internet",179.92,0,5594.57,543,,
+2010/09/28,"Debit card payment to Farnell Internet",111.51,0,5774.49,543,,"Power board components (95516455)"
+2010/09/28,"Debit card payment to Farnell Internet",179.92,0,5594.57,543,,"Power board components (95516455)"
 2010/09/28,"Debit credit from R Spanton",0,1000,4594.57,,,
 2010/09/30,"Debit card payment to Dkc Digi-Key Corp",163.37,0,4431.2,553,75.08,
-2010/10/01,"Debit card payment to Farnell Internet",96,0,4335.2,,,
-2010/10/01,"Debit card payment to Farnell Internet",2100.54,0,2174.7,550,,
+2010/10/01,"Debit card payment to Farnell Internet",96,0,4335.2,550,,"Power & Motor board components (95603047)"
+2010/10/01,"Debit card payment to Farnell Internet",2100.54,0,2174.7,550,,"Power & Motor board components (95603047)"
 2010/10/01,"Debit card payment to R S Comp/Internet",59.96,0,2114.74,,,
-2010/10/04,"Debit card payment to Farnell Internet",3.41,0,2111.33,,,
-2010/10/04,"Debit card payment to Farnell Internet",64.8,0,2106.49,555,64.69,
+2010/10/04,"Debit card payment to Farnell Internet",3.41,0,2111.33,532,,"Power board components (95339357)"
+2010/10/04,"Debit card payment to Farnell Internet",64.8,0,2106.49,550,,"Power & Motor board components (95603047)"
 2010/10/05,"Debit card payment to Dkc Digi-Key Corp",75.08,0,2031.41,553,,
 2010/10/08,"Debit card payment to WP-Newbury Electro",71.79,0,1959.62,554,,
-2010/10/14,"Debit card payment to Farnell Internet",3.22,0,1956.4,,,
-2010/10/14,"Debit card payment to Farnell Internet",70.98,0,1885.42,,,
+2010/10/14,"Debit card payment to Farnell Internet",3.22,0,1956.4,555,,"JointIO board prototype components (95854148)"
+2010/10/14,"Debit card payment to Farnell Internet",70.98,0,1885.42,555,,"JointIO board prototype components (95854148)"
 2010/10/19,"Debit card payment to R S Comp/Internet",23.72,0,1861.7,584,,
 2010/10/19,"Debit card payment to TOOLSDIRECT2You",149.25,0,1712.45,582,,
 2010/10/20,"Debit card refund from TOOLSDIRECT2You",0,149.25,1861.7,582,,
-2010/10/25,"Debit card payment to Farnell Internet",56.96,0,1804.74,585,,
+2010/10/25,"Debit card payment to Farnell Internet",56.96,0,1804.74,585,,"IR board prototype components (96068978)"
 2010/10/26,"Debit card payment to Passion Automotive",18.58,0,1786.16,586,,
-2010/11/11,"Debit card payment to Farnell Internet",1.81,0,1784.35,,,
-2010/11/12,"Debit card payment to Farnell Internet",9.17,0,1775.18,,,
+2010/11/11,"Debit card payment to Farnell Internet",1.81,0,1784.35,555,,"JointIO board prototype components (95854148)"
+2010/11/12,"Debit card payment to Farnell Internet",9.17,0,1775.18,588,,"IR board prototype components (96482604)"
 2010/11/15,"Direct Payment from S Hampton Universi",0,21340.97,23116.15,,,
-2010/11/16,"Debit card payment to Farnell Internet",173.17,0,22942.98,587,,
+2010/11/16,"Debit card payment to Farnell Internet",173.17,0,22942.98,589,,"MSP-FET430UIF (96537798)"
 2010/11/17,"Cheque issued 100076",1000,0,21942.98,,,"Jeremy Morse - Loan Repayment"
 2010/11/19,"Cheque issued 100077",1000,0,20942.98,,,"Richard Barlow - Loan Repayment"
 2010/11/19,"Debit card payment to WP-Newbury Electro",73.79,0,20869.19,592,,
@@ -84,9 +84,9 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2010/11/24,"Cheque issued 100078",1000,0,17781.47,,,"Rob Spanton - Loan Repayment"
 2010/11/25,"Debi card payment to Paypal *aliexpress Singapore of GBP483.61 at exchange rate of GBP483.61 at exchange rate 1,000 on 22 Nov",483.61,0,17297.86,593,,
 2010/11/30,"Cheque issued 100079",5,0,17292.86,,,"Sam Phippen - Doing Cakes"
-2010/11/30,"Debit card payment to Farnell Internet",41.5,0,17251.36,594,,
-2010/11/30,"Debit card payment to Farnell Internet",102.15,0,17149.21,594,,
-2010/11/30,"Debit card payment to Farnell Internet",313.82,0,16643.32,594,,
+2010/11/30,"Debit card payment to Farnell Internet",41.5,0,17251.36,594,,"Wire and camcon plugs (96829703)"
+2010/11/30,"Debit card payment to Farnell Internet",102.15,0,17149.21,594,,"Wire and camcon plugs (96829703)"
+2010/11/30,"Debit card payment to Farnell Internet",313.82,0,16643.32,594,,"Wire and camcon plugs (96829703)"
 2010/11/30,"Debit card payment to Passion Automotive",176.85,0,16466.47,,,
 2010/11/30,"Debit card payment to R S Comp/Internet",15.22,0,16451.25,,,
 2010/12/03,"Debit card payment to Www.Microdirect.Co",14.61,0,16628.71,,,
@@ -96,19 +96,19 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2010/12/29,"Debit card payment to Circuitco Electron United States of USD2,683 at exchange rate 1,496 on 23 Dec, including commission of $48.00",1793.1,0,14427.97,,,
 2010/12/29,"Debit card payment to Www.Misco.Co.Uk",174.58,0,14253.39,599,,
 2011/03/01,"Cheque issued 100089",1180.8,0,8151.35,631,,
-2011/03/04,"Debit card payment to Farnell Internet",22.46,0,8128.89,,,
+2011/03/04,"Debit card payment to Farnell Internet",22.46,0,8128.89,655,,"Nuts and bolts for cases (98686857)"
 2011/03/14,"Debit card payment to WP-Newbury Electro",85.92,0,8042.97,687,0,
-2011/03/15,"Debit card payment to Farnell Internet",40.16,0,8002.81,,,
+2011/03/15,"Debit card payment to Farnell Internet",40.16,0,8002.81,693,,"IR board prototype components (98919305)"
 2011/03/15,"Debit card payment to R S Comp/Internet",140.44,0,7862.37,691,140.5,
-2011/03/16,"Debit card payment to Farnell Internet",88.16,0,7774.21,,,
-2011/03/16,"Debit card payment to Farnell Internet",286.06,0,7488.15,,,
-2011/03/16,"Debit card payment to Farnell Internet",341.29,0,7146.86,692,342.05,
-2011/03/17,"Debit card payment to Farnell Internet",4.97,0,7141.89,,,
-2011/03/17,"Debit card payment to Farnell Internet",11.88,0,7130.01,,,
-2011/03/17,"Debit card payment to Farnell Internet",28.15,0,7101.86,,,
+2011/03/16,"Debit card payment to Farnell Internet",88.16,0,7774.21,690,,"Servo board components (98919173)"
+2011/03/16,"Debit card payment to Farnell Internet",286.06,0,7488.15,690,,"Servo board components (98919173)"
+2011/03/16,"Debit card payment to Farnell Internet",341.29,0,7146.86,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)"
+2011/03/17,"Debit card payment to Farnell Internet",4.97,0,7141.89,693,,"IR board prototype components (98919305)"
+2011/03/17,"Debit card payment to Farnell Internet",11.88,0,7130.01,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)"
+2011/03/17,"Debit card payment to Farnell Internet",28.15,0,7101.86,690,,"Servo board components (98919173)"
 2011/03/18,"Debit card payment to Garner Osborne",370.75,0,6731.11,637,363.48,
 2011/03/21,"Cheque issued 100090",90,0,6731.11,,,"Shaun Mooney - Bitbox Delivery"
-2011/03/21,"Debit card payment to Farnell Internet",1.98,0,6639.13,,,
+2011/03/21,"Debit card payment to Farnell Internet",1.98,0,6639.13,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)"
 2011/03/23,"Debit card payment to Staples UK",39.45,0,6599.68,,,"Boxes for shipping"
 2011/03/25,"Cheque issued 100091",50,0,6549.68,,,"Ian Cooper - Bitbox Delivery/Collection"
 2011/03/25,"Cheque issued 100092",360,0,6189.68,686,360,
