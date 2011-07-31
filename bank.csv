@@ -117,73 +117,73 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2011/02/11,"Farnell Internet REF 027 2878654700 BDC",38.63,0,11969.1,,,,
 2011/02/10,"Advanced Plastic T REF 040 6444172700 BDC",610.03,0,11359.07,,,,
 2011/02/15,"Wessex Custom Clot REF 042 2940989700 BDC",439.5,0,10919.57,,,,
-2011/02/18,"WP-Newbury Electro REF 047 2282854700 BDC",128.16,0,
-2011/02/21,"Garner Osborne REF 049 6539661700 BDC",359.76,0,
-2011/02/22,"Farnell Internet REF 049 0879580700 BDC",78.02,0,
-2011/02/23,"Cheque 100084",264.00,0,
-2011/02/24,"Farnell Internet REF 053 2270418700 BDC",7.36,0,
-2011/02/24,"R S Comp/Internet REF 050 2270417700 BDC",147.18,0
-2011/02/24,"Farnell Internet REF 050 2270419700 BDC",602.94,0
-2011/03/01,"Cheque issued 100089",1180.8,0,9738.77,631,,"Jeremy Morse - Motor board cases",45
-2011/03/04,"Debit card payment to Farnell Internet",22.46,0,9716.31,655,,"Nuts and bolts for cases (98686857)","41 45"
-2011/03/14,"Debit card payment to WP-Newbury Electro",85.92,0,9630.39,687,,"IR board prototype PCBs",23
-2011/03/15,"Debit card payment to Farnell Internet",40.16,0,9590.23,693,,"IR board prototype components (98919305)",23
-2011/03/15,"Debit card payment to R S Comp/Internet",140.44,0,9449.79,691,,"Servo board components (112079907)",48
-2011/03/16,"Debit card payment to Farnell Internet",88.16,0,9361.63,690,,"Servo board components (98919173)",48
-2011/03/16,"Debit card payment to Farnell Internet",286.06,0,9075.57,690,,"Servo board components (98919173)",48
-2011/03/16,"Debit card payment to Farnell Internet",341.29,0,8734.28,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)",52
-2011/03/17,"Debit card payment to Farnell Internet",4.97,0,8729.31,693,,"IR board prototype components (98919305)",23
-2011/03/17,"Debit card payment to Farnell Internet",11.88,0,8717.43,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)",52
-2011/03/17,"Debit card payment to Farnell Internet",28.15,0,8689.28,690,,"Servo board components (98919173)",48
-2011/03/18,"Debit card payment to Garner Osborne",370.75,0,8318.53,637,363.48,"JointIO board PCBs",51
-2011/03/21,"Cheque issued 100090",90,0,8228.53,,,"Shaun Mooney - Bitbox Delivery",0
-2011/03/21,"Debit card payment to Farnell Internet",1.98,0,8226.55,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)",52
-2011/03/23,"Debit card payment to Staples UK",39.45,0,8187.1,,,"Boxes for shipping",0
-2011/03/25,"Cheque issued 100091",50,0,8137.1,,,"Ian Cooper - Bitbox Delivery/Collection",0
-2011/03/25,"Cheque issued 100092",360,0,7777.1,686,,"Alex Forward - Shipping",0
-2011/03/25,"Cheque issued 100094",107.4,0,7669.7,695,,"Alex Forward - Shipping",0
-2011/03/28,"Cheque issued 100093",56.4,0,7613.3,700,,"Richard Barlow - Servo board solder psate stencil",47
-2011/03/28,"Cheque issued 100095",56.4,0,7556.9,688,,"Richard Barlow - JointIO board solder paste stencil",51
-2011/03/29,"Debit card payment to Southampton.Gov.UK",2.8,0,7554.1,,,"Chris's Parking",0
-2011/03/29,"Debit card payment to Staples UK",33.36,0,7520.74,,,"Boxes for shipping",0
-2011/03/29,"Debit card payment to The Engraving Gall",107.45,0,7413.29,,,Trophies,87
-2011/03/29,"Debit card payment to UPS*1Ztg7224689544",69.66,0,7343.63,715,,Shipping,0
-2011/03/29,"Debit card payment to UPS*1Ztg7224689560",29.73,0,7313.90000000001,715,,Shipping,0
-2011/03/29,"Debit card payment to UPS*1Ztg7224689721",29.72,0,7284.18,715,,Shipping,0
-2011/03/29,"Debit card payment to UPS*1Ztg7224689994",29.72,0,7254.46,715,,Shipping,0
-2011/03/30,"Cheque issued 100097",133.46,0,7121,661,202.98,"Sam Phippen - Bristol mini-arena",0
-2011/03/30,"Debit card payment to Staples UK",4.38,0,7116.62,,,"Boxes for shipping",0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689006",76.3,0,7040.32,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689044",29.75,0,7010.57,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689046",29.72,0,6980.85,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689048",29.72,0,6951.13,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689135",29.72,0,6921.41,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689198",29.72,0,6891.69,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689212",29.72,0,6861.97,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689240",30.14,0,6831.83,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689242",29.72,0,6802.11,,,Shipping,0
-2011/04/04,"Debit card payment to UPS*1Ztg7224689483",30.14,0,6771.97,,,Shipping,0
-2011/04/04,"Direct credit from S Hampton Universi",0,689.56,7461.53,,,"Motorola Foundation Conference Funding",
-2011/04/05,"Debit card payment to Southampton.Gov.UK",1.4,0,7460.13,,,"Chris's Parking",0
-2011/04/05,"Debit card payment to Staples UK",8.48,0,7451.65,,,"Boxes for shipping",0
-2011/04/05,"Debit card payment to UPS*1Ztg7224689094",30.15,0,7421.5,,,Shipping,0
-2011/04/05,"Debit card payment to UPS*1Ztg7224689242",0,25.34,7446.84,,,Shipping,0
-2011/04/05,"Debit card payment to UPS1Ztg7224689484",29.72,0,7417.12,,,Shipping,0
-2011/04/05,"Debit card payment to UPS1Ztg7224689494",29.72,0,7387.4,,,Shipping,0
-2011/04/06,"Debit card payment to Stage Electrics",212.74,0,7174.66,729,,"Tape of all varieties",84
-2011/04/07,"Debit card payment to Comms Express Ltd",137.1,0,7037.56,754,,"Network cable for competition",0
-2011/04/07,"Debit card payment to Stage Electrics",17.38,0,7020.18,729,,"Tape of all varieties",84
-2011/04/07,"Debit card payment to www.Beal.Org.UK",60.68,0,6959.5,730,39.62,"Cable ties and bin bags",84
-2011/04/08,"Debit card payment to Totton Timber Co",179.71,0,6779.79,741,,"Hardboard for arena",88
-2011/04/08,"Debit cardpayment UPS*1Ztg7224689127",29.72,0,6750.07,,,Shipping,0
-2011/04/11,"Debit card payment to Screwfix Direct",30.13,0,6719.94,731,,"Screws for arena",84
-2011/04/12,"Debit card payment to SGB Hire Plus",67.2,0,6652.74,720,,Scaffolding,81
-2011/04/13,"Debit card payment to Sainsburys Petrol",23.88,0,6628.86,781,,"Chris's Fuel (French team)",0
-2011/04/15,"Cheque issued 100098",77,0,6551.86,775,,"Jenny Graham - Tea, coffee & biscuits",0
-2011/04/28,"Cheque issued 100099",1152,0,5399.86,721,,"Jeremy Morse - JointIO & Servo board cases","49 53"
-2011/05/05,"S'Hampton Uni 100051",0,81.04,5480.9,,,,
-2011/05/06,"Cheque 100096",138.6,0,5342.3,,,,
-2011/05/09,"Cheque 100104",63.04,0,5279.26,,,,
-2011/05/11,"Cheque 100103",104.99,0,5174.27,,,,
-2011/05/11,"Cheque 100106",231.45,0,4942.82,,,,
-2011/05/17,"Cheque 100101",200,0,4742.82,,,,
+2011/02/18,"WP-Newbury Electro REF 047 2282854700 BDC",128.16,0,10791.41,,,,
+2011/02/21,"Garner Osborne REF 049 6539661700 BDC",359.76,0,10431.65,,,,
+2011/02/22,"Farnell Internet REF 049 0879580700 BDC",78.02,0,10353.63,,,,
+2011/02/23,"Cheque 100084",264,0,10089.63,,,,
+2011/02/24,"Farnell Internet REF 053 2270418700 BDC",7.36,0,10082.27,,,,
+2011/02/24,"R S Comp/Internet REF 050 2270417700 BDC",147.18,0,9935.09,,,,
+2011/02/24,"Farnell Internet REF 050 2270419700 BDC",602.94,0,9332.15,,,,
+2011/03/01,"Cheque issued 100089",1180.8,0,8151.35,631,,"Jeremy Morse - Motor board cases",45
+2011/03/04,"Debit card payment to Farnell Internet",22.46,0,8128.89,655,,"Nuts and bolts for cases (98686857)","41 45"
+2011/03/14,"Debit card payment to WP-Newbury Electro",85.92,0,8042.97,687,,"IR board prototype PCBs",23
+2011/03/15,"Debit card payment to Farnell Internet",40.16,0,8002.81,693,,"IR board prototype components (98919305)",23
+2011/03/15,"Debit card payment to R S Comp/Internet",140.44,0,7862.37,691,,"Servo board components (112079907)",48
+2011/03/16,"Debit card payment to Farnell Internet",88.16,0,7774.21,690,,"Servo board components (98919173)",48
+2011/03/16,"Debit card payment to Farnell Internet",286.06,0,7488.15,690,,"Servo board components (98919173)",48
+2011/03/16,"Debit card payment to Farnell Internet",341.29,0,7146.86,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)",52
+2011/03/17,"Debit card payment to Farnell Internet",4.97,0,7141.89,693,,"IR board prototype components (98919305)",23
+2011/03/17,"Debit card payment to Farnell Internet",11.88,0,7130.01,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)",52
+2011/03/17,"Debit card payment to Farnell Internet",28.15,0,7101.86,690,,"Servo board components (98919173)",48
+2011/03/18,"Debit card payment to Garner Osborne",370.75,0,6731.11,637,363.48,"JointIO board PCBs",51
+2011/03/21,"Cheque issued 100090",90,0,6641.11,,,"Shaun Mooney - Bitbox Delivery",0
+2011/03/21,"Debit card payment to Farnell Internet",1.98,0,6639.13,692,,"Plugs for jio, cable ties for cases, nylon blots (98919264)",52
+2011/03/23,"Debit card payment to Staples UK",39.45,0,6599.68,,,"Boxes for shipping",0
+2011/03/25,"Cheque issued 100091",50,0,6549.68,,,"Ian Cooper - Bitbox Delivery/Collection",0
+2011/03/25,"Cheque issued 100092",360,0,6189.68,686,,"Alex Forward - Shipping",0
+2011/03/25,"Cheque issued 100094",107.4,0,6082.28,695,,"Alex Forward - Shipping",0
+2011/03/28,"Cheque issued 100093",56.4,0,6025.88,700,,"Richard Barlow - Servo board solder psate stencil",47
+2011/03/28,"Cheque issued 100095",56.4,0,5969.48,688,,"Richard Barlow - JointIO board solder paste stencil",51
+2011/03/29,"Debit card payment to Southampton.Gov.UK",2.8,0,5966.68,,,"Chris's Parking",0
+2011/03/29,"Debit card payment to Staples UK",33.36,0,5933.32,,,"Boxes for shipping",0
+2011/03/29,"Debit card payment to The Engraving Gall",107.45,0,5825.87,,,Trophies,87
+2011/03/29,"Debit card payment to UPS*1Ztg7224689544",69.66,0,5756.21,715,,Shipping,0
+2011/03/29,"Debit card payment to UPS*1Ztg7224689560",29.73,0,5726.48,715,,Shipping,0
+2011/03/29,"Debit card payment to UPS*1Ztg7224689721",29.72,0,5696.76,715,,Shipping,0
+2011/03/29,"Debit card payment to UPS*1Ztg7224689994",29.72,0,5667.04,715,,Shipping,0
+2011/03/30,"Cheque issued 100097",133.46,0,5533.58,661,202.98,"Sam Phippen - Bristol mini-arena",0
+2011/03/30,"Debit card payment to Staples UK",4.38,0,5529.2,,,"Boxes for shipping",0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689006",76.3,0,5452.9,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689044",29.75,0,5423.15,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689046",29.72,0,5393.43,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689048",29.72,0,5363.71,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689135",29.72,0,5333.99,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689198",29.72,0,5304.27,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689212",29.72,0,5274.55,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689240",30.14,0,5244.41,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689242",29.72,0,5214.69,,,Shipping,0
+2011/04/04,"Debit card payment to UPS*1Ztg7224689483",30.14,0,5184.55,,,Shipping,0
+2011/04/04,"Direct credit from S Hampton Universi",0,689.56,5874.11,,,"Motorola Foundation Conference Funding",
+2011/04/05,"Debit card payment to Southampton.Gov.UK",1.4,0,5872.71,,,"Chris's Parking",0
+2011/04/05,"Debit card payment to Staples UK",8.48,0,5864.23,,,"Boxes for shipping",0
+2011/04/05,"Debit card payment to UPS*1Ztg7224689094",30.15,0,5834.08,,,Shipping,0
+2011/04/05,"Debit card payment to UPS*1Ztg7224689242",0,25.34,5859.42,,,Shipping,0
+2011/04/05,"Debit card payment to UPS1Ztg7224689484",29.72,0,5829.7,,,Shipping,0
+2011/04/05,"Debit card payment to UPS1Ztg7224689494",29.72,0,5799.98,,,Shipping,0
+2011/04/06,"Debit card payment to Stage Electrics",212.74,0,5587.24,729,,"Tape of all varieties",84
+2011/04/07,"Debit card payment to Comms Express Ltd",137.1,0,5450.14,754,,"Network cable for competition",0
+2011/04/07,"Debit card payment to Stage Electrics",17.38,0,5432.76,729,,"Tape of all varieties",84
+2011/04/07,"Debit card payment to www.Beal.Org.UK",60.68,0,5372.08,730,39.62,"Cable ties and bin bags",84
+2011/04/08,"Debit card payment to Totton Timber Co",179.71,0,5192.37,741,,"Hardboard for arena",88
+2011/04/08,"Debit cardpayment UPS*1Ztg7224689127",29.72,0,5162.65,,,Shipping,0
+2011/04/11,"Debit card payment to Screwfix Direct",30.13,0,5132.52,731,,"Screws for arena",84
+2011/04/12,"Debit card payment to SGB Hire Plus",67.2,0,5065.32,720,,Scaffolding,81
+2011/04/13,"Debit card payment to Sainsburys Petrol",23.88,0,5041.44,781,,"Chris's Fuel (French team)",0
+2011/04/15,"Cheque issued 100098",77,0,4964.44,775,,"Jenny Graham - Tea, coffee & biscuits",0
+2011/04/28,"Cheque issued 100099",1152,0,3812.44,721,,"Jeremy Morse - JointIO & Servo board cases","49 53"
+2011/05/05,"S'Hampton Uni 100051",0,81.04,3893.48,,,,
+2011/05/06,"Cheque 100096",138.6,0,3754.88,,,,
+2011/05/09,"Cheque 100104",63.04,0,3691.84,,,,
+2011/05/11,"Cheque 100103",104.99,0,3586.85,,,,
+2011/05/11,"Cheque 100106",231.45,0,3355.4,,,,
+2011/05/17,"Cheque 100101",200,0,3155.4,,,,
