@@ -102,28 +102,28 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2010/12/29,"Debit card payment to Www.Misco.Co.Uk",174.58,0,14427.97,599,,"USB Hubs",0
 2011/01/06,"Cheque issued 100080",71.94,0,14356.03,,,,
 2011/01/06,"Cheque issued 100082",15.55,0,14340.48,,,,
-2011/01/10,"DKC Digi-Key Corp REF 005 2303724700 BDC",1645.97,0,12694.51,536,,BeagleBoards,
+2011/01/10,"DKC Digi-Key Corp REF 005 2303724700 BDC",1645.97,0,12694.51,536,,BeagleBoards,37
 2011/01/11,"UPS Ltd. REF 007 7137403700 BDC",353.62,0,12340.89,536,,"BealgeBoard CoD charge (refunded lower down, was paid at the door)",
 2011/01/18,"Boxes and stuff li REF 013 0878958700 BDC",31.48,0,12309.41,617,,"Boxes for shipping",0
 2011/01/24,"Refund UPS Ltd REF 020 7325819700 BDC",,353.62,12663.03,536,,"BeagleBoard CoD charge refund",
-2011/01/25,"Farnell Internet Ref 021 0860735700 BDC",28.07,0,12634.96,626,,"IR board prototype components (97855061)",
-2011/01/26,"Cheque issued 100086",201.39,0,12433.57,623,,"Pre-kickstart posters/leaflets",
-2011/01/26,"Cheque issued 100087",42,0,12391.57,624,,T-shirts,
+2011/01/25,"Farnell Internet Ref 021 0860735700 BDC",28.07,0,12634.96,626,,"IR board prototype components (97855061)",23
+2011/01/26,"Cheque issued 100086",201.39,0,12433.57,623,,"Pre-kickstart posters/leaflets",11
+2011/01/26,"Cheque issued 100087",42,0,12391.57,624,,T-shirts,0
 2011/01/26,"Cheque issued 100088",285.79,0,12105.78,,,,
 2011/01/27,"Cheque issued 100081",5.76,0,12100.02,,,,
-2011/01/28,"Wp-Newbury Electronics Ref 026 2306708700 BDC",64.8,0,12035.22,628,,"Servo board prototype PCBs",
-2011/02/11,"Farnell Internet REF 028 2878653700 BDC",0.71,0,12034.51,629,,"Servo board prototype components (97989464)",
-2011/02/11,"Farnell Internet REF 029 2878652700 BDC",26.78,0,12007.73,629,,"Servo board prototype components (97989464)",
-2011/02/11,"Farnell Internet REF 027 2878654700 BDC",38.63,0,11969.1,629,,"Servo board prototype components (97989464)",
-2011/02/10,"Advanced Plastic T REF 040 6444172700 BDC",610.03,0,11359.07,622,,"Power board cases",
-2011/02/15,"Wessex Custom Clot REF 042 2940989700 BDC",439.5,0,10919.57,,,T-shirts,
-2011/02/18,"WP-Newbury Electro REF 047 2282854700 BDC",128.16,0,10791.41,"638 639",,"Ethernet display/digit prototype PCB",
-2011/02/21,"Garner Osborne REF 049 6539661700 BDC",359.76,0,10431.65,637,,"JointIO board PCBs",
-2011/02/22,"Farnell Internet REF 049 0879580700 BDC",78.02,0,10353.63,641,,"Ethernet display/digit prototype components (98458774)",
-2011/02/23,"Cheque 100084",264,0,10089.63,551,,"Rob Spanton - MSP430s",
-2011/02/24,"Farnell Internet REF 053 2270418700 BDC",7.36,0,10082.27,624,,"JointIO board components (98481652)",
-2011/02/24,"R S Comp/Internet REF 050 2270417700 BDC",147.18,0,9935.09,643,,"JointIO board components (111843732)",
-2011/02/24,"Farnell Internet REF 050 2270419700 BDC",602.94,0,9332.15,642,,"JointIO board components (98481652)",
+2011/01/28,"Wp-Newbury Electronics Ref 026 2306708700 BDC",64.8,0,12035.22,628,,"Servo board prototype PCBs",23
+2011/02/11,"Farnell Internet REF 028 2878653700 BDC",0.71,0,12034.51,629,,"Servo board prototype components (97989464)",23
+2011/02/11,"Farnell Internet REF 029 2878652700 BDC",26.78,0,12007.73,629,,"Servo board prototype components (97989464)",23
+2011/02/11,"Farnell Internet REF 027 2878654700 BDC",38.63,0,11969.1,629,,"Servo board prototype components (97989464)",23
+2011/02/10,"Advanced Plastic T REF 040 6444172700 BDC",610.03,0,11359.07,622,,"Power board cases",41
+2011/02/15,"Wessex Custom Clot REF 042 2940989700 BDC",439.5,0,10919.57,,,T-shirts,0
+2011/02/18,"WP-Newbury Electro REF 047 2282854700 BDC",128.16,0,10791.41,"638 639",,"Ethernet display/digit prototype PCB",23
+2011/02/21,"Garner Osborne REF 049 6539661700 BDC",359.76,0,10431.65,637,,"JointIO board PCBs",51
+2011/02/22,"Farnell Internet REF 049 0879580700 BDC",78.02,0,10353.63,641,,"Ethernet display/digit prototype components (98458774)",23
+2011/02/23,"Cheque 100084",264,0,10089.63,551,,"Rob Spanton - Motor board MSP430s",44
+2011/02/24,"Farnell Internet REF 053 2270418700 BDC",7.36,0,10082.27,624,,"JointIO board components (98481652)",52
+2011/02/24,"R S Comp/Internet REF 050 2270417700 BDC",147.18,0,9935.09,643,,"JointIO board components (111843732)",52
+2011/02/24,"Farnell Internet REF 050 2270419700 BDC",602.94,0,9332.15,642,,"JointIO board components (98481652)",52
 2011/03/01,"Cheque issued 100089",1180.8,0,8151.35,631,,"Jeremy Morse - Motor board cases",45
 2011/03/04,"Debit card payment to Farnell Internet",22.46,0,8128.89,655,,"Nuts and bolts for cases (98686857)","41 45"
 2011/03/14,"Debit card payment to WP-Newbury Electro",85.92,0,8042.97,687,,"IR board prototype PCBs",23
@@ -182,8 +182,8 @@ Date,Description,Payments,Receipts,Balance,Trac,"Trac Discrepancy","Additional D
 2011/04/15,"Cheque issued 100098",77,0,4964.44,775,,"Jenny Graham - Tea, coffee & biscuits",0
 2011/04/28,"Cheque issued 100099",1152,0,3812.44,721,,"Jeremy Morse - JointIO & Servo board cases","49 53"
 2011/05/05,"S'Hampton Uni 100051",0,81.04,3893.48,,,,
-2011/05/06,"Cheque 100096",138.6,0,3754.88,702,,"Rob Spanton - JointIO board MSP430s",
-2011/05/09,"Cheque 100104",63.04,0,3691.84,786,,"Jake Sanders - Travel to competition",
-2011/05/11,"Cheque 100103",104.99,0,3586.85,785,,"Alex Forward - Travel and competition expenses",
+2011/05/06,"Cheque 100096",138.6,0,3754.88,702,,"Rob Spanton - JointIO board MSP430s",52
+2011/05/09,"Cheque 100104",63.04,0,3691.84,786,,"Jake Sanders - Travel to competition",94
+2011/05/11,"Cheque 100103",104.99,0,3586.85,785,,"Alex Forward - Travel and competition expenses","0 94"
 2011/05/11,"Cheque 100106",231.45,0,3355.4,802,,"Alex Forward - Krakow flights (Motorola Foundation Conference)",
-2011/05/17,"Cheque 100101",200,0,3155.4,,,"Richard Barlow - Servo board paste stencil over-night shipping from Stoke",
+2011/05/17,"Cheque 100101",200,0,3155.4,,,"Richard Barlow - Servo board paste stencil over-night shipping from Stoke",0
