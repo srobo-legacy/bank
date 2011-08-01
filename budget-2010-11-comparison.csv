@@ -1,27 +1,27 @@
 "Budget Line",Description,"Budget Allocated","Actual Spend"
-0,"No line",0,3324.22
-11,"Web & Publicity - Posters & Brochures",20,0
+0,"No line",0,4058.22
+11,"Web & Publicity - Posters & Brochures",20,201.39
 17,"Mech Prototype - Tools",100,0
 18,"Mech Prototype - R&D",100,0
 21,"Electronics Prototyping - Programmers",200,173.17
 22,"Electronics Prototyping - Tools",100,0
-23,"Electronics Prototyping - Components",450,344.98
+23,"Electronics Prototyping - Components",450,710.15
 26,"Kickstart - ISS Hire",50,0
 27,"Kickstart - Scaff Hire",55,0
 28,"Kickstart - Game",240,0
-37,"Power Board - BeagleBoard",4560,1793.1
+37,"Power Board - BeagleBoard",4560,3439.07
 38,"Power Board - PCB",1131.64,390.34
 39,"Power Board - LCD",760,483.61
 40,"Power Board - Components",1026,1916.06
-41,"Power Board - Case",570,22.46
+41,"Power Board - Case",570,632.49
 43,"Motor Board - PCB",1220.56,352.55
-44,"Motor Board - Components",1748,1338.28
+44,"Motor Board - Components",1748,1602.28
 45,"Motor Board - Case",494,1192.03
-47,"Servo Board - PCB",717.44,56.4
+47,"Servo Board - PCB",717.44,427.15
 48,"Servo Board - Components",380,607.32
 49,"Servo Board - Case",247,576
-51,"JointIO Board - PCB",717.44,427.15
-52,"JointIO Board - Components",494,419.66
+51,"JointIO Board - PCB",717.44,416.16
+52,"JointIO Board - Components",494,1315.74
 53,"JointIO Board - Case",247,579
 56,"SMPS Board - PCB",190,0
 57,"SMPS Board - Components",190,0
@@ -51,3 +51,4 @@
 86,Printing,100,0
 87,Trophies,60,107.45
 88,Hardboard,135,179.71
+94,"Mentor Travel",2400,115.54
